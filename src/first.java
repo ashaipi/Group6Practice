@@ -3,5 +3,7 @@ public class first {
         System.out.println("first");
 
         System.out.println("second");
+
+        System.out.println("3");
     }
 }
